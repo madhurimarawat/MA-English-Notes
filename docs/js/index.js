@@ -282,7 +282,7 @@ function toggleDarkMode() {
     updateUI(btnToggle, 'dark');
 
     // Save user preference in localStorage for persistence
-    localStorage.setItem('semester-notes-website-colorMode', 'dark');
+    localStorage.setItem('ma-notes-website-colorMode', 'dark');
     console.log('Dark mode enabled');
   } else {
     // Dark mode is active → disable it by removing the dark stylesheet
@@ -293,7 +293,7 @@ function toggleDarkMode() {
     updateUI(btnToggle, 'light');
 
     // Save user preference in localStorage for persistence
-    localStorage.setItem('semester-notes-website-colorMode', 'light');
+    localStorage.setItem('ma-notes-website-colorMode', 'light');
     console.log('Dark mode disabled');
   }
 }
@@ -303,7 +303,7 @@ function toggleDarkMode() {
  * Priority: localStorage → prefers-color-scheme (system theme)
  */
 function applyPreferredMode() {
-  const savedMode = localStorage.getItem('semester-notes-website-colorMode'); // Get saved mode from localStorage
+  const savedMode = localStorage.getItem('ma-notes-website-colorMode'); // Get saved mode from localStorage
 
   // Check if a preference is saved in localStorage and apply it
   if (savedMode === 'dark') {
