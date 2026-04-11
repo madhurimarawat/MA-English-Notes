@@ -73,12 +73,12 @@ function changeColor(Color) {
   document.documentElement.style.setProperty('--button-color', button);
 
   // Save the selected theme to localStorage
-  localStorage.setItem('semester-notes-website-theme', Color);
+  localStorage.setItem('ma-website-theme', Color);
 }
 
 // On page load, restore theme from localStorage if present
 document.addEventListener('DOMContentLoaded', () => {
-  const savedTheme = localStorage.getItem('semester-notes-website-theme');
+  const savedTheme = localStorage.getItem('ma-notes-website-theme');
   if (savedTheme) {
     changeColor(savedTheme); // Apply the saved theme
   }
