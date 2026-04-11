@@ -73,7 +73,7 @@ function changeColor(Color) {
   document.documentElement.style.setProperty('--button-color', button);
 
   // Save the selected theme to localStorage
-  localStorage.setItem('ma-website-theme', Color);
+  localStorage.setItem('ma-notes-website-theme', Color);
 }
 
 // On page load, restore theme from localStorage if present
