@@ -56,7 +56,35 @@
 │   │   │   └── Writers_Era_Age_Titles_Admirers_Critics.md
 │   │   ├── MA_Previous_Handwritten_Pages_Index.pdf
 │   │   └── MA_Syllabus_Exam_Format_Previous_Year.md
+│   │   └── 3_Prose
+│   │       ├── Passage_Identification.md
+│   │       ├── Prose_(D)_Title_Explanantion.md
+│   │       ├── Prose_Detailed(D)_Summaries.md
+│   │       ├── Prose_Handwritten_Notes.pdf
+│   │       ├── Prose_Summary_Quotes.md
+│   │       ├── Prose_Summary_Themes_Characters.md
+│   │       ├── Prose_Syllabus_Official.pdf
+│   │       ├── Prose_Title_Explanantion.md
+│   │       ├── Prose_Writers_Writing_Style.md
+│   │       ├── Revision_Sheet.md
+│   │       ├── Syllabus_Analysis_Easy.md
+│   │       ├── Unit_1_Bacon_Essays
+│   │       │   └── Links.txt
+│   │       ├── Unit_2_Coverley_Papers
+│   │       │   ├── Addison_Essayist.md
+│   │       │   ├── Coverley_Papers_Essays.md
+│   │       │   └── Links.txt
+│   │       ├── Unit_3_Charles_Lamb_Essays
+│   │       │   └── Links.txt
+│   │       ├── Unit_4_Hero_as_Poet
+│   │       │   └── Links.txt
+│   │       ├── Unit_5_Michel_De_Montaigne_Detailed_Text
+│   │       │   └── Links.txt
+│   │       ├── Unit_5_Utopia
+│   │       │   └── Links.txt
+│   │       └── Writers_Era_Age_Titles_Admirers_Critics.md
 │   └── Question_Paper_2026_27
-│       ├── Paper-II_Drama.pdf
 │       └── Paper-I_Poetry.pdf
+│       ├── Paper-II_Drama.pdf
+│       └── Paper-III_Prose.pdf
 ```
