@@ -55,12 +55,54 @@ To explore full directory structure:
 
 ---
 
-## 📘 Subjects Covered
+## 📂 Previous Year Structure
 
-* 📜 Poetry
-* 🎭 Drama
-* 📚 Literary Theory & Criticism
-* 🧠 Authors, Eras & Context
+```bash
+├── Previous_Year
+│   ├── Notes
+|   │   ├── 1_Poetry
+|   │   ├── 2_Drama
+|   │   ├── 3_Prose
+|   │   ├── 4_Fiction
+|   │   ├── 5_History_of_English_Literature
+```
+
+🔗 Quick Access:
+
+* 📜 [Poetry](./Previous_Year/Notes/1_Poetry)
+* 🎭 [Drama](./Previous_Year/Notes//2_Drama)
+* 📘 [Prose](./Previous_Year/Notes//3_Prose)
+* 📖 [Fiction](./Previous_Year/Notes//4_Fiction)
+* 📚 [History of English Literature](./Previous_Year/Notes//5_History_of_English_Literature)
+
+---
+
+## 🗂️ Final Year Structure
+
+```bash
+├── Final_Year
+│   ├── Final_Year_Official_Syllabus.pdf
+│   ├── Notes
+│   │   ├── 1_Critical_Theory
+│   │   │   └── Critical_Theory_Syllabus_Official.pdf
+│   │   ├── 2_Indian_Writings_in_English
+│   │   │   └── Indian_Writings_in_English_Syllabus_Official.pdf
+│   │   ├── 3_American_Literature
+│   │   │   └── American_Literature_Syllabus_Official.pdf
+│   │   ├── 4_Modernist_Literature
+│   │   │   └── Modernist_Literature_Syllabus_Official.pdf
+│   │   └── 5_English_Language_Teaching
+│   │       └── English_Language_Teaching_Syllabus_Official.pdf
+│   └── Question_Paper
+```
+
+🔗 Quick Access:
+
+* 📜 [Critical Theory](./Final_Year/Notes/1_Critical_Theory)
+* 🇮🇳 [Indian Writing in English](./Final_Year/Notes/2_Indian_Writings_in_English)
+* 🇺🇸 [American Literature](./Final_Year/Notes/3_American_Literature)
+* 🧾 [Modernist Literature](./Final_Year/Notes/4_Modernist_Literature)
+* 🗣️ [English Language Teaching](./Final_Year/Notes/5_English_Language_Teaching)
 
 ---
 
