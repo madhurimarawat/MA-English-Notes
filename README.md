@@ -7,7 +7,7 @@ Comprehensive English literature notes, handwritten resources, question papers, 
 ![Forks](https://img.shields.io/github/forks/madhurimarawat/MA-English-Notes?style=for-the-badge&logo=github&label=Forks&color=f8c291)
 ![Repo Size](https://img.shields.io/github/repo-size/madhurimarawat/MA-English-Notes?style=for-the-badge&label=Size&color=82ccdd)
 ![Last Commit](https://img.shields.io/github/last-commit/madhurimarawat/MA-English-Notes?style=for-the-badge&label=Updated&color=b8e994)
-![Subjects](https://img.shields.io/badge/Subjects-2+-c8a2c8?style=for-the-badge)
+![Subjects](https://img.shields.io/badge/Subjects-10+-c8a2c8?style=for-the-badge)
 ![MA English](https://img.shields.io/badge/Field-English%20Literature-f6b6c1?style=for-the-badge)
 
 <br>
