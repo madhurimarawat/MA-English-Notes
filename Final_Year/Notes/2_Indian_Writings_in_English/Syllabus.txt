@@ -74,6 +74,8 @@ Cry, the Peacock - ND
 
 ========================================
 
+ABBREVIATIONS
+
 D = Detailed Study
 ND = Non-Detailed Study
 S = Studied & Notes Completed
