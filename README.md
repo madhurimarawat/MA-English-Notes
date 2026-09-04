@@ -132,7 +132,16 @@ To explore full directory structure:
   → Instructions on navigating and effectively using the notes  
 
 - 📂 [Directory Structure](Directory_Structure.md)  
-  → Complete overview of all folders and files in this repository  
+  → Complete overview of all folders and files in this repository
+
+- 📄 [Syllabus File Explanation](Syllabus_File_Explanation.md)  
+  → Explains the `Syllabus.txt` files, including their unit-wise structure, `D`, `ND`, and `S` abbreviations, unit separators, and examination relevance
+
+- 🔗 [Links File Explanation](Links_File_Explanation.md)  
+  → Explains the `Links.txt` files and how they provide links to external resources for each subject or topic
+
+- ✍️ [Handwritten Index Notes Guide](Handwritten_Index_Notes_Guide.md)  
+  → Guide to the handwritten index notes, including their purpose and how to use them with the repository
 
 ---
 
