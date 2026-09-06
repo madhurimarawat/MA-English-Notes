@@ -9,7 +9,10 @@
 ├── HOW_TO_USE.md
 ├── Markdown_PDF_Conversion.md
 ├── Directory_Structure.md
+├── Handwritten_Index_Notes_Guide.md
 ├── Links_File_Explanation.md
+├── Markdown_PDF_Conversion.md
+├── Syllabus_File_Explanation.md
 ├── Official
 │   └── Links.txt
 ```
@@ -27,6 +30,8 @@
 
 ```bash
 ├── Previous_Year
+│   ├── MA_Previous_Handwritten_Pages_Index.pdf
+│   ├── MA_Syllabus_Exam_Format_Previous_Year.md
 │   ├── Notes
 │   │   ├── 1_Poetry
 │   │   ├── 2_Drama
@@ -165,8 +170,6 @@
 
 </details>
 
----
-
 ### 📄 Question Papers
 
 <details>
@@ -184,6 +187,186 @@
 │   │   ├── Paper-III_Prose.pdf
 │   │   ├── Paper-IV_Fiction.pdf
 │   │   └── Paper-V_The_History_of_English_Language.pdf
+```
+
+</details>
+
+---
+
+## 📚 Final Year Materials
+
+### 🗂️ Notes
+
+<details>
+<summary>📂 Expand Notes</summary>
+
+```bash
+├── Final_Year
+│   ├── Final_Year_Official_Syllabus.pdf
+│   ├── MA_Final_Handwritten_Pages_Index.pdf
+│   ├── MA_Syllabus_Exam_Format_Final_Year.md
+│   ├── MA_Syllabus_Exam_Format_Final_Year_Handwritten.pdf
+│   ├── Notes
+│   │   ├── 1_Critical_Theory
+│   │   ├── 2_Indian_Writings_in_English
+│   │   ├── 3_American_Literature
+│   │   ├── 4_Modernist_Literature
+│   │   ├── 5_English_Language_Teaching
+```
+
+</details>
+
+### 🧠 1. Critical Theory
+
+<details>
+<summary>📂 Expand Critical Theory</summary>
+
+```bash
+├── Final_Year
+│   ├── Notes
+│   │   ├── 1_Critical_Theory
+│   │   │   ├── Critical_Theory_Handwritten_Notes_1.pdf
+│   │   │   ├── Critical_Theory_Handwritten_Notes_2.pdf
+│   │   │   ├── Critical_Theory_Syllabus_Official.pdf
+│   │   │   ├── Syllabus.txt
+│   │   │   ├── Unit_1
+│   │   │   │   ├── Detailed_Explanation.md
+│   │   │   │   └── Links.txt
+│   │   │   ├── Unit_2
+│   │   │   │   └── Detailed_Explanation.md
+│   │   │   ├── Unit_3
+│   │   │   │   └── Detailed_Explanation.md
+│   │   │   ├── Unit_4
+│   │   │   │   └── Detailed_Explanation.md
+│   │   │   ├── Unit_5
+│   │   │   │   └── Detailed_Explanation.md
+│   │   │   └── Writers_Era_Age_Titles_Admirers_Critics.md
+```
+
+</details>
+
+### 🇮🇳 2. Indian Writings in English
+
+<details>
+<summary>📂 Expand Indian Writings in English</summary>
+
+```bash
+├── Final_Year
+│   ├── Notes
+│   │   ├── 2_Indian_Writings_in_English
+│   │   │   ├── Indian_Writings_(D)_Title_Explanation.md
+│   │   │   ├── Indian_Writings_(ND)_Title_Explanation.md
+│   │   │   ├── Indian_Writings_in_English_Handwritten_Notes_1.pdf
+│   │   │   ├── Indian_Writings_in_English_Handwritten_Notes_2.pdf
+│   │   │   ├── Indian_Writings_in_English_Syllabus_Official.pdf
+│   │   │   ├── Syllabus.txt
+│   │   │   ├── Unit_1
+│   │   │   │   ├── Detailed_Explanation.md
+│   │   │   │   └── Links.txt
+│   │   │   ├── Unit_2
+│   │   │   │   ├── Detailed_Explanation.md
+│   │   │   │   └── Links.txt
+│   │   │   ├── Unit_3
+│   │   │   │   ├── Detailed_Explanation.md
+│   │   │   │   ├── Ignited_Minds_Five_Personalities.md
+│   │   │   │   └── Links.txt
+│   │   │   ├── Unit_4
+│   │   │   │   ├── Detailed_Explanation.md
+│   │   │   │   ├── Links.txt
+│   │   │   │   ├── Nagamandala_Characters_Guide.md
+│   │   │   │   └── Nagamandala_Key_Quotes_Explanation.md
+│   │   │   ├── Unit_5
+│   │   │   │   ├── Detailed_Explanation.md
+│   │   │   │   ├── English_Teacher_Characters.md
+│   │   │   │   ├── English_Teacher_Quotes_Explanation.md
+│   │   │   │   └── Links.txt
+│   │   │   └── Writers_Era_Age_Titles_Admirers_Critics.md
+```
+
+</details>
+
+### 🇺🇸 3. American Literature
+
+<details>
+<summary>📂 Expand American Literature</summary>
+
+```bash
+├── Final_Year
+│   ├── Notes
+│   │   ├── 3_American_Literature
+│   │   │   ├── American_Literature_(D)_Title_Explanation.md
+│   │   │   ├── American_Literature_(ND)_Title_Explanation.md
+│   │   │   ├── American_Literature_Handwritten_Notes_1.pdf
+│   │   │   ├── American_Literature_Handwritten_Notes_2.pdf
+│   │   │   ├── American_Literature_Syllabus_Official.pdf
+│   │   │   ├── Syllabus.txt
+│   │   │   ├── Unit_1
+│   │   │   │   └── Links.txt
+│   │   │   ├── Unit_2
+│   │   │   │   ├── Birches_Poetic_Style_Symbolism.md
+│   │   │   │   ├── Departmental_Poetic_Style_Symbolism.md
+│   │   │   │   ├── Links.txt
+│   │   │   │   └── Stopping_By_Poetic_Style_Symbolism.md
+│   │   │   ├── Unit_3
+│   │   │   │   ├── Death_of_a_Salesman_Short_Summary.md
+│   │   │   │   ├── Death_of_a_Salesman_Summary_Characters.md
+│   │   │   │   └── Links.txt
+│   │   │   ├── Unit_4
+│   │   │   │   ├── Links.txt
+│   │   │   │   └── Self_Reliance_Symbolism_Quotes.md
+│   │   │   ├── Unit_5
+│   │   │   │   ├── Links.txt
+│   │   │   │   └── Old_Man_and_Sea_Summary_Characters.md
+│   │   │   └── Writers_Era_Age_Titles_Admirers_Critics.md
+```
+
+</details>
+
+### 📖 4. Modernist Literature
+
+<details>
+<summary>📂 Expand Modernist Literature</summary>
+
+```bash
+├── Final_Year
+│   ├── Notes
+│   │   ├── 4_Modernist_Literature
+│   │   │   ├── Modernist_Literature_(D)_Title_Explanation.md
+│   │   │   ├── Modernist_Literature_(ND)_Title_Explanation.md
+│   │   │   ├── Modernist_Literature_Handwritten_Notes_1.pdf
+│   │   │   ├── Modernist_Literature_Handwritten_Notes_2.pdf
+│   │   │   ├── Modernist_Literature_Syllabus_Official.pdf
+│   │   │   ├── Syllabus.txt
+│   │   │   ├── Unit_1
+│   │   │   │   ├── Byzantium_Themes_Emotions.md
+│   │   │   │   └── Links.txt
+│   │   │   ├── Unit_2
+│   │   │   │   ├── Auden_Poems_Message_Theme.md
+│   │   │   │   └── Links.txt
+│   │   │   ├── Unit_3
+│   │   │   │   └── Waiting_for_Godot_Summary_Characters.md
+│   │   │   ├── Unit_4
+│   │   │   │   ├── Links.txt
+│   │   │   │   ├── Robert_Lynd_Writing_Style.md
+│   │   │   │   ├── The_Pleasure_of_Ignorance_Summary_Quotes.md
+│   │   │   │   └── Why_we_Hate_Insects_Summary_Quotes.md
+│   │   │   ├── Unit_5
+│   │   │   │   └── Train_to_Pakistan_Summary_Characters.md
+│   │   │   └── Writers_Era_Age_Titles_Admirers_Critics.md
+```
+
+</details>
+
+### 🗣️ 5. English Language Teaching
+
+<details>
+<summary>📂 Expand English Language Teaching</summary>
+
+```bash
+├── Final_Year
+│   ├── Notes
+│   │   ├── 5_English_Language_Teaching
+│   |   │   └── English_Language_Teaching_Syllabus_Official.pdf
 ```
 
 </details>
