@@ -211,7 +211,8 @@
 │   │   ├── 2_Indian_Writings_in_English
 │   │   ├── 3_American_Literature
 │   │   ├── 4_Modernist_Literature
-│   │   ├── 5_English_Language_Teaching
+│   │   ├── 5_A_Linguistics
+│   │   ├── 5_B_English_Language_Teaching
 ```
 
 </details>
@@ -357,7 +358,21 @@
 
 </details>
 
-### 🗣️ 5. English Language Teaching
+### 🗣️ 5. A. Linguistics
+
+<details>
+<summary>📂 Expand Linguistics</summary>
+
+```bash
+├── Final_Year
+│   ├── Notes
+│   │   ├── 5_A_Linguistics
+│   |   │   └── Linguistics_Syllabus_Official.pdf
+```
+
+</details>
+
+### 🗣️ 5. B. English Language Teaching
 
 <details>
 <summary>📂 Expand English Language Teaching</summary>
@@ -365,7 +380,7 @@
 ```bash
 ├── Final_Year
 │   ├── Notes
-│   │   ├── 5_English_Language_Teaching
+│   │   ├── 5_B_English_Language_Teaching
 │   |   │   └── English_Language_Teaching_Syllabus_Official.pdf
 ```
 
