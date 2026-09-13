@@ -2,7 +2,7 @@
 *********************************************************************************************
 * File: index.js
 * Author: Madhurima Rawat
-* Date: April 11, 2026
+* Date: September 13, 2026
 * Description: JavaScript file for study materials website, providing
 *              functionality to dynamically change color schemes based on user-selected seasons.
 * Version: 1.0
@@ -27,7 +27,7 @@
 // Run when DOM content is fully loaded
 document.addEventListener("DOMContentLoaded", function () {
   // Array of contentRow IDs to center align
-  var rowIds = ["centerRow_1", "centerRow_2"];
+  var rowIds = ["centerRow_1"];
 
   // Loop through each ID and add the Flexbox classes if the element exists
   for (var i = 0; i < rowIds.length; i++) {
@@ -134,7 +134,8 @@ document.addEventListener("DOMContentLoaded", function () {
     'indian-writing-english-card': 'Paper II Indian Writings in English',
     'american-literature-card': 'Paper III American Literature',
     'modernist-literature-card': 'Paper IV Modernist Literature',
-    'english-teaching-card': 'Paper V English Language Teaching',
+    'linguistics-card': 'Paper V (A) Linguistics',
+    'english-teaching-card': 'Paper V (B) English Language Teaching'
 
   };
 
