@@ -91,7 +91,9 @@ To explore full directory structure:
 │   │   │   └── American_Literature_Syllabus_Official.pdf
 │   │   ├── 4_Modernist_Literature
 │   │   │   └── Modernist_Literature_Syllabus_Official.pdf
-│   │   └── 5_English_Language_Teaching
+│   │   └── 5_A_Linguistics
+│   │       └── Linguistics_Syllabus_Official.pdf
+│   │   └── 5_B_English_Language_Teaching
 │   │       └── English_Language_Teaching_Syllabus_Official.pdf
 │   └── Question_Paper
 ```
@@ -102,7 +104,8 @@ To explore full directory structure:
 * 🇮🇳 [Indian Writing in English](./Final_Year/Notes/2_Indian_Writings_in_English)
 * 🇺🇸 [American Literature](./Final_Year/Notes/3_American_Literature)
 * 🧾 [Modernist Literature](./Final_Year/Notes/4_Modernist_Literature)
-* 🗣️ [English Language Teaching](./Final_Year/Notes/5_English_Language_Teaching)
+* 🔤 [Linguistics](./Final_Year/Notes/5_A_Linguistics)
+* 🗣️ [English Language Teaching](./Final_Year/Notes/5_B_English_Language_Teaching)
 
 ---
 
